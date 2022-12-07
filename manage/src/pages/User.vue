@@ -290,7 +290,7 @@ export default {
   },
   created(){
     this.findAllUser();
-    this.findAllUser(); //两次加载
+    this.findAllUser(); //两次加载.
   }
 }
 </script>
